@@ -1,5 +1,7 @@
 # 🔐  ⌨  keylogger  
 
+🧠 Key logs are the typed data recorded by a keylogger — basically a “history” of what someone types on their keyboard.
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)  ![VS Codium](https://img.shields.io/badge/VSCodium-2F80ED?style=flat&logo=VSCodium&logoColor=white)  ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)  
 
 A simple keylogger made in python that send the keystrokes to the attacker's server.  
