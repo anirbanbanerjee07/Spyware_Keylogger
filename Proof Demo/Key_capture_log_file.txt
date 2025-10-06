@@ -1,0 +1,27 @@
+clipboard data Password123
+'s'
+'t'
+'u'
+'d'
+'e'
+'n'
+'t'
+Key.caps_lock
+'p'
+Key.caps_lock
+'a'
+'s'
+'s'
+'w'
+'o'
+'r'
+'d'
+'1'
+'2'
+'3'
+
+
+so the username is = student
+password is = Password123
+
+DONE
