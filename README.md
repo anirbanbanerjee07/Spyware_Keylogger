@@ -1,8 +1,7 @@
 # 🔐  ⌨  keylogger  
 
-🧠 Key logs are the typed data recorded by a keylogger — basically a “history” of what someone types on their keyboard.
-
-`A simple keylogger made in python that send the keystrokes to the attacker's server.`
+`🧠 Key logs are the typed data recorded by a keylogger — basically a “history” of what someone types on their keyboard.
+A simple keylogger made in python that send the keystrokes to the attacker's server.`
 
 ---  
 
