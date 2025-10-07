@@ -34,12 +34,6 @@ pyinstaller --noconsole --onefile keylogger.py
  
 ---  
 
-### 💬 To Reach Me  
-
- <a href='https://discord.com/users/718847515176206406' target="blank"> <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a> <a href='https://twitter.com/debang5hu' target="blank"> <img align="center" src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/></a>  
-
-
-
 🚫 __Disclamer__: Don't use it to harm other's privacy  
 
 
