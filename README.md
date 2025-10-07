@@ -140,6 +140,9 @@ pyinstaller --noconsole --onefile keylogger.py
 
 ---
 
+## Sub Division of README.MD
+- [Windows](https://github.com/anirbanbanerjee07/Spyware_Keylogger/tree/main/Windows#readme)
+
 ## 🤝 Contri
 Contributions are always welcome 🔥
 * Last Contribution at `7th October 2025` by 🕵️‍♂️ Anirban Banerjee
