@@ -55,7 +55,7 @@ pyinstaller --noconsole --onefile keylogger.py
    - See we need to prefix our token with a word bot
    - Eg: `https://api.telegram.org/bot63xxxxxx71:AAFoxxxxn0hwA-2TVSxxxNf4c/getUpdates`
 4. We will see a json like so
-```
+```json
 {
   "ok": true,
   "result": [
@@ -88,7 +88,7 @@ pyinstaller --noconsole --onefile keylogger.py
 2. Send a message to the channel
 3. Open this URL `https://api.telegram.org/bot{our_bot_token}/getUpdates`
 4. We will see a json like so
-```
+```json
 {
   "ok": true,
   "result": [
