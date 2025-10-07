@@ -24,8 +24,8 @@ import requests
 # <-- Initializing global values -->
 
 # change this
-TOKEN = '8493044928:AAFjZhojFERI56FJ2fU4Esb7IOvUgdGnllg'                    # Telegram API Token
-CHAT_ID = '-1003196413416'                  # Telegram Chat ID
+TOKEN = ''                    # Telegram API Token
+CHAT_ID = ''                  # Telegram Chat ID
 INTERVAL = 60                 # set interval according to your requirement
 
 
